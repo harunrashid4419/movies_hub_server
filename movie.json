@@ -1,5 +1,45 @@
 [
     {
+        "name": "Awarapan",
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSQkiXosv6nMpYFF1aNGWcn2_v7FKDbrq_cJEvKEeg4UwWevY6",
+        "year": "2007",
+        "genra": "Action/Romance",
+        "length": "2h 28m",
+        "print": "1080P",
+        "language": "Hindi",
+        "plot": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her."
+    },
+    {
+        "name": "3 Idiots",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+        "year": "2009",
+        "genra": "Drama/Comedy",
+        "length": "2h 51m",
+        "print": "1080P",
+        "language": "Hindi",
+        "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'."
+    },
+    {
+        "name": "Bajrangi Bhaijaan",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvt2hvhHOfktJbouKuNb0_-ComHupmJtNLyOHshtP4&usqp=CAE&s",
+        "year": "2015",
+        "genra": "Action/Adventure",
+        "length": "2h 39m",
+        "print": "HD 2K",
+        "language": "Hindi",
+        "plot": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family."
+    },
+    {
+        "name": "Sanju",
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSQkiXosv6nMpYFF1aNGWcn2_v7FKDbrq_cJEvKEeg4UwWevY6",
+        "year": "2018",
+        "genra": "Drama/Comedy",
+        "length": "2h 41m",
+        "print": "HD 2K",
+        "language": "Hindi",
+        "plot": "Biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence, and personal life."
+    },
+    {
         "name": "Army of the Dear",
         "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYZfWnDCXUMQth18KugHyfWW0zDxA_Afjcv4V6prcqr4FdFpr6",
         "year": "2021",
@@ -98,6 +138,16 @@
         "print": "HD",
         "language": "Spanish",
         "plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+    },
+    {
+        "name": "Titanic",
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMWvCb2DAXS5AVLb1p1jsPGOtyABFijuB5xYQ4xgDPFdUCcA40",
+        "year": "1997",
+        "genra": "Romance/Drama",
+        "length": "3h 14m",
+        "print": "1080P",
+        "language": "English",
+        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
     },
     {
         "name": "Badhaai Ho",

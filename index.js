@@ -21,11 +21,12 @@ const client = new MongoClient(uri, {
 async function run(){
     try{
         const popularMoviesCollections = client.db('moviesHub').collection('popularMovies');
+        const allMoviesCollections = client.db('moviesHub').collection('allMovies');
         
-        // all popular movies get
+        // all popular movies get and limit
         app.get('/movies', async(req, res) =>{
             const query = {};
-            const result = await popularMoviesCollections.find(query).toArray();
+            const result = (await popularMoviesCollections.find(query).toArray()).slice(0, 8);
             res.send(result);
         });
 
@@ -35,7 +36,14 @@ async function run(){
           const query = {_id: new ObjectId(id)};
           const result = await popularMoviesCollections.findOne(query);
           res.send(result);
-        })
+        });
+
+        // all popular movie
+        app.get('/allMovies', async(req, res) =>{
+            const query = {};
+            const result = (await popularMoviesCollections.find(query).toArray());
+            res.send(result);
+        });
 
     }
     finally{
