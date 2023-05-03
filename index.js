@@ -1,8 +1,8 @@
 const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
-const express = require('express');
-const cors = require('cors');
+const express = require("express");
+const cors = require("cors");
 const app = express();
-require('dotenv').config();
+require("dotenv").config();
 const port = process.env.PORT || 5000;
 
 app.use(cors());
@@ -15,52 +15,67 @@ const client = new MongoClient(uri, {
     version: ServerApiVersion.v1,
     strict: true,
     deprecationErrors: true,
-  }
+  },
 });
 
-async function run(){
-    try{
-        const popularMoviesCollections = client.db('moviesHub').collection('popularMovies');
-        const allMoviesCollections = client.db('moviesHub').collection('allMovies');
-        const userReviewCollections = client.db('moviesHub').collection('userReviews');
-        
-        // all popular movies get and limit
-        app.get('/movies', async(req, res) =>{
-            const query = {};
-            const result = (await popularMoviesCollections.find(query).toArray()).slice(0, 8);
-            res.send(result);
-        });
+async function run() {
+  try {
+    const popularMoviesCollections = client
+      .db("moviesHub")
+      .collection("popularMovies");
+    const allMoviesCollections = client.db("moviesHub").collection("allMovies");
+    const userReviewCollections = client
+      .db("moviesHub")
+      .collection("userReviews");
+    const requestedMoviesCollections = client
+      .db("moviesHub")
+      .collection("requestMovie");
 
-        // popular single movie
-        app.get('/movie/:id', async(req, res) =>{
-          const id = req.params.id;
-          const query = {_id: new ObjectId(id)};
-          const result = await popularMoviesCollections.findOne(query);
-          res.send(result);
-        });
+    // all popular movies get and limit
+    app.get("/movies", async (req, res) => {
+      const query = {};
+      const result = (
+        await popularMoviesCollections.find(query).toArray()
+      ).slice(0, 8);
+      res.send(result);
+    });
 
-        // all popular movie
-        app.get('/allMovies', async(req, res) =>{
-            const query = {};
-            const result = (await popularMoviesCollections.find(query).toArray());
-            res.send(result);
-        });
+    // popular single movie
+    app.get("/movie/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await popularMoviesCollections.findOne(query);
+      res.send(result);
+    });
 
-        // add review to database
-        app.post('/userReview', async(req, res) =>{
-          const review = req.body;
-          const result = await userReviewCollections.insertOne(review);
-          res.send(result);
-        })
+    // all popular movie
+    app.get("/allMovies", async (req, res) => {
+      const query = {};
+      const result = await popularMoviesCollections.find(query).toArray();
+      res.send(result);
+    });
 
-    }
-    finally{
+    // add review to database
+    app.post("/userReview", async (req, res) => {
+      const review = req.body;
+      const result = await userReviewCollections.insertOne(review);
+      res.send(result);
+    });
 
-    }
+    // add requested movies to database
+    app.post("/requestMovie", async (req, res) => {
+      const request = req.body;
+      const result = await requestedMoviesCollections.insertOne(request);
+      res.send(result);
+    });
+
+
+  } finally {
+  }
 }
 run().catch((error) => console.error(error));
 
-app.get('/', (req, res) =>{
-    res.send('port is running');
-})
+app.get("/", (req, res) => {
+  res.send("port is running");
+});
 app.listen(port, () => console.log(`port is running ${port}`));
