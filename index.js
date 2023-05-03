@@ -22,6 +22,7 @@ async function run(){
     try{
         const popularMoviesCollections = client.db('moviesHub').collection('popularMovies');
         const allMoviesCollections = client.db('moviesHub').collection('allMovies');
+        const userReviewCollections = client.db('moviesHub').collection('userReviews');
         
         // all popular movies get and limit
         app.get('/movies', async(req, res) =>{
@@ -44,6 +45,13 @@ async function run(){
             const result = (await popularMoviesCollections.find(query).toArray());
             res.send(result);
         });
+
+        // add review to database
+        app.post('/userReview', async(req, res) =>{
+          const review = req.body;
+          const result = await userReviewCollections.insertOne(review);
+          res.send(result);
+        })
 
     }
     finally{

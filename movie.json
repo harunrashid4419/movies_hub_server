@@ -3,160 +3,656 @@
         "name": "Awarapan",
         "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSQkiXosv6nMpYFF1aNGWcn2_v7FKDbrq_cJEvKEeg4UwWevY6",
         "year": "2007",
+        "imdb": "6.0",
         "genra": "Action/Romance",
         "length": "2h 28m",
         "print": "1080P",
         "language": "Hindi",
-        "plot": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her."
+        "plot": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "3 Idiots",
         "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
         "year": "2009",
+        "imdb": "8.0",
         "genra": "Drama/Comedy",
         "length": "2h 51m",
         "print": "1080P",
         "language": "Hindi",
-        "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'."
+        "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Bajrangi Bhaijaan",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvt2hvhHOfktJbouKuNb0_-ComHupmJtNLyOHshtP4&usqp=CAE&s",
         "year": "2015",
+        "imdb": "8.6",
         "genra": "Action/Adventure",
         "length": "2h 39m",
         "print": "HD 2K",
         "language": "Hindi",
-        "plot": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family."
+        "plot": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Sanju",
-        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSQkiXosv6nMpYFF1aNGWcn2_v7FKDbrq_cJEvKEeg4UwWevY6",
+        "poster": "https://www.movienewsletters.net/photos/259717R1.jpg",
         "year": "2018",
+        "imdb": "8.0",
         "genra": "Drama/Comedy",
         "length": "2h 41m",
         "print": "HD 2K",
         "language": "Hindi",
-        "plot": "Biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence, and personal life."
+        "plot": "Biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence, and personal life.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Army of the Dear",
         "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYZfWnDCXUMQth18KugHyfWW0zDxA_Afjcv4V6prcqr4FdFpr6",
         "year": "2021",
+        "imdb": "7.0",
         "genra": "Action/Horror",
         "length": "2h 28m",
         "print": "HD 4K",
         "language": "English",
-        "plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted."
+        "plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "The Outlaws",
         "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHYRfxqfB3zWHF7RJi83HU8L9Eo92QYHrAEtC8RS3LcM67XH3D",
         "year": "2017",
+        "imdb": "8.0",
         "genra": "Action/Crime",
         "length": "2h 1m",
         "print": "HD 2K",
         "language": "Korean",
-        "plot": "Based on real events, this crime action film depicts a Seoul detective's attempts to keep peace while two Chinese-Korean gangs battle over turf in the neighborhood."
+        "plot": "Based on real events, this crime action film depicts a Seoul detective's attempts to keep peace while two Chinese-Korean gangs battle over turf in the neighborhood.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "IP Man",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XKXU85K_KdZs7Ojwd_XymozCvT4z-t0VrdHU1CpjvmkAxRoq",
         "year": "2008",
+        "imdb": "7.5",
         "genra": "Action/Drama",
         "length": "1h 46m",
         "print": "HD 1080",
         "language": "Chinese",
-        "plot": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive."
+        "plot": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Zindagi Na Milegi Dobara",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_6kHpQIkMHu0BT_AFh3XU6vBkv-Wg7Y-JJbL7I79ozwNa-1i",
         "year": "2011",
+        "imdb": "7.0",
         "genra": "Romance/Drama",
         "length": "2h 33m",
         "print": "HD",
         "language": "Hindi",
-        "plot": "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged."
+        "plot": "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Avengers: Infinity War",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmE2vwxy5KaCu7cRuYYdgNdQKddux5OYgGwsPo0kqP_xzLnsDV",
         "year": "2018",
+        "imdb": "8.0",
         "genra": "Action/Adventure",
         "length": "2h 29m",
         "print": "HD 2K",
         "language": "English",
-        "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+        "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "The Night Comes for Us",
         "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4T06AdhBVruey5jTvY5yEw6QsajW_tNq29I-dtDx74Cf4V_ad",
         "year": "2018",
+        "imdb": "8.6",
         "genra": "Action/Thrille",
         "length": "2h 1m",
         "print": "HD",
         "language": "Indonesian",
-        "plot": "Ito, a gangland enforcer, caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad."
+        "plot": "Ito, a gangland enforcer, caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Pushpa: The Rise",
         "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfBsJnWMSk716p9HN_K8eqgNMpoiq2koPWy8pSgHUmj4JbwAd4",
         "year": "2021",
+        "imdb": "7.0",
         "genra": "Action/Crime",
         "length": "2h 59m",
         "print": "HD 4K",
         "language": "Telugu",
-        "plot": "A labourer rises through the ranks of a red sandal smuggling syndicate, making some powerful enemies in the process."
+        "plot": "A labourer rises through the ranks of a red sandal smuggling syndicate, making some powerful enemies in the process.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Furious 7",
         "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvaeXoQYLd1XyDZfpvLZKhiTOJI9fj31-8cU13RKcSUta0Dai1",
         "year": "2015",
+        "imdb": "8.0",
         "genra": "Action/Adventure",
         "length": "2h 20m",
         "print": "HD 1080",
         "language": "English",
-        "plot": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother."
+        "plot": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Game of Thrones",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaEFnTagipxGek320Ytdkfar67mGKRrTgb4YhvIq1bKxjGDZ5",
         "year": "2011",
+        "imdb": "9.8",
         "genra": "Drama",
         "length": "8 Seasons",
         "print": "HD",
         "language": "English",
-        "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+        "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Money Heist",
         "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcEazg1RHMebusfpj_3nR8f-d_CgNLxAc0Wm9foVDza9M4hKcf",
         "year": "2017",
+        "imdb": "9.5",
         "genra": "Thriller ",
         "length": "5 Seasons",
         "print": "HD",
         "language": "Spanish",
-        "plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+        "plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Titanic",
         "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMWvCb2DAXS5AVLb1p1jsPGOtyABFijuB5xYQ4xgDPFdUCcA40",
         "year": "1997",
+        "imdb": "9.0",
         "genra": "Romance/Drama",
         "length": "3h 14m",
         "print": "1080P",
         "language": "English",
-        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     },
     {
         "name": "Badhaai Ho",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzhJFwCvxAUiL2mO_yX4ObUG6gODPMCNzaBfiN_MVm&usqp=CAE&s",
         "year": "2018",
+        "imdb": "6.0",
         "genra": "Drama/Comedy",
         "length": "2h 2m",
         "print": "HD",
         "language": "Hindi",
-        "plot": "A man is embarrassed when he finds out his mother is pregnant."
+        "plot": "A man is embarrassed when he finds out his mother is pregnant.",
+        "casts": [
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQ7h-5sWrekPnh8wSRohgYsJk7QKxSu4ocgORwv6Tl2q2o3BivJ5BVMlYjxvVtGB8QE6xyNvC0WB4H3Qn8&psig=AOvVaw3lrVFmzHnKLZ4q6QgH24VC&ust=1683108681394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjr28my1v4CFQAAAAAdAAAAABAE",
+                "name": "Nick Jonas"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRom06uzhSpvP6DozZDVFw-lQHFX42NK-CSvrg9siNOeOft8GcjIz8YhpHGXTcmGwrnohrNnUwI07fzkkE&psig=AOvVaw0e8HLHkfmM0B4liFVwLaes&ust=1683108742280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiD4Oay1v4CFQAAAAAdAAAAABAE",
+                "name": "Vin Diesel"
+            },
+            {
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRWV3Doxhf3WELWr_w_LXDvpIgdVg3dbUtdVvlhSS8xAybkvVI93gAed1n740yUwuH-bK8TAw7hq0R0XsA&psig=AOvVaw0hpKerPyD6NtDGT8o9pZij&ust=1683108786745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjl8_uy1v4CFQAAAAAdAAAAABAE",
+                "name": "Paul Walker"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/375060_v9_ba.jpg",
+                "name": "Emraan Hashmi"
+            },
+            {
+                "img": "https://img.wegreenkw.com/sites/3/2022/12/Shriya-Saran-360x504.webp",
+                "name": "Shriya Saran"
+            }
+        ]
     }
 ]
