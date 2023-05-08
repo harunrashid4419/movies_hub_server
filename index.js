@@ -23,22 +23,22 @@ async function run() {
     const popularMoviesCollections = client
       .db("moviesHub")
       .collection("popularMovies");
-    const allMoviesCollections = client.db("moviesHub").collection("allMovies");
     const userReviewCollections = client
       .db("moviesHub")
       .collection("userReviews");
     const requestedMoviesCollections = client
       .db("moviesHub")
       .collection("requestMovie");
-    const usersCollections = client
+    const usersCollections = client.db("moviesHub").collection("users");
+    const topRatedMoviesCollections = client
       .db("moviesHub")
-      .collection("users");
+      .collection("topRated");
 
-    // all popular movies get and limit
+    // popular all movies
     app.get("/movies", async (req, res) => {
-      const query = {};
+      const movie = {};
       const result = (
-        await popularMoviesCollections.find(query).toArray()
+        await popularMoviesCollections.find(movie).toArray()
       ).slice(0, 8);
       res.send(result);
     });
@@ -48,7 +48,8 @@ async function run() {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) };
       const result = await popularMoviesCollections.findOne(query);
-      res.send(result);
+      const result2 = await topRatedMoviesCollections.findOne(query);
+      res.send(result, result2);
     });
 
     // all popular movie
@@ -66,20 +67,20 @@ async function run() {
     });
 
     // get user review
-    app.get('/reviews/:id', async(req, res) =>{
+    app.get("/reviews/:id", async (req, res) => {
       const reviewId = req.params.id;
-      const id = {id: reviewId};
+      const id = { id: reviewId };
       const result = await userReviewCollections.find(id).toArray();
       res.send(result);
     });
 
     // my requested movies query by email
-    app.get('/myRequest', async(req, res) =>{
+    app.get("/myRequest", async (req, res) => {
       const email = req.query.email;
-      const query = {email: email};
+      const query = { email: email };
       const result = await requestedMoviesCollections.find(query).toArray();
       res.send(result);
-    })
+    });
 
     // add requested movies to database
     app.post("/requestMovie", async (req, res) => {
@@ -89,36 +90,33 @@ async function run() {
     });
 
     // user add to database
-    app.post('/users', async(req, res) =>{
+    app.post("/users", async (req, res) => {
       const user = req.body;
       const result = await usersCollections.insertOne(user);
       res.send(result);
     });
 
     // get all user
-    app.get('/allUser', async(req, res) =>{
+    app.get("/allUser", async (req, res) => {
       const query = {};
       const result = await usersCollections.find(query).toArray();
       res.send(result);
     });
 
     // user requested movies get
-    app.get('/movieRequested', async(req, res) =>{
+    app.get("/movieRequested", async (req, res) => {
       const movies = {};
       const result = await requestedMoviesCollections.find(movies).toArray();
       res.send(result);
     });
 
     // admin hook
-    app.get('/user/admin/:email', async(req, res) =>{
+    app.get("/user/admin/:email", async (req, res) => {
       const email = req.params.email;
-      const query = {email: email};
+      const query = { email: email };
       const user = await usersCollections.findOne(query);
-      console.log(email)
-      res.send({isAdmin: user?.role === 'admin'});
-    })
-
-
+      res.send({ isAdmin: user?.role === "admin" });
+    });
   } finally {
   }
 }

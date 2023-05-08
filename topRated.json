@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Mad Max: Fury Road",
+        "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdzSE7YateHtZV7CYhJ_7MG348BLmWSnYAADU6pz4E8dtLgCZM",
+        "year": "2015",
+        "imdb": "88.1",
+        "genra": "Action/Adventure ",
+        "length": "2h",
+        "print": "HD",
+        "language": "English",
+        "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvYzmCt0-qgc4Yc1AgkRw9_ONiZ5RX1sg53__YVoLs28rfR8M-",
+        "year": "1994",
+        "imdb": "9.3",
+        "genra": "Drama/Crime ",
+        "length": "2h 22m",
+        "print": "HD",
+        "language": "English",
+        "plot": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "The Green Mile",
+        "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgZqWs8at0E7djB-Rgntwg_fzuZwWl96llZQl6QkHIDHggZSsf",
+        "year": "1999",
+        "imdb": "8.6",
+        "genra": "Drama/Fantasy",
+        "length": "3h 9m",
+        "print": "HD",
+        "language": "English",
+        "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "Rang De Basanti",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5c7MHZYvb1kbcNPmMUlryVUew-pzc8E1QyPvqTlP1ik2IadY",
+        "year": "2006",
+        "imdb": "8.1",
+        "genra": "Musical/Romance",
+        "length": "2h 3m",
+        "print": "HD",
+        "language": "Hindi",
+        "plot": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AmVACg9VVkfE6Go_tvhiTvRZIG1T7qMut5OVNHO9g1ITDLRshh6R80K89JaZeVvM2Jc&usqp=CAU",
+        "year": "1995",
+        "imdb": "8",
+        "genra": "Romance/Musical",
+        "length": "3h 9m",
+        "print": "HD",
+        "language": "Hindi",
+        "plot": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "Train to Busan",
+        "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_wZYjDAoZDg7bRYYqj9tGH5HuevNXkVUmy66q_-xxNMcju3Or",
+        "year": "2016",
+        "imdb": "7.6",
+        "genra": "Horror/Action",
+        "length": "1h 58m",
+        "print": "2K HD",
+        "language": "Korean",
+        "plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "Parasite",
+        "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMngKl6ll3IzYuFPo2T7u4AuFW-SZXBm8tuDwYXUomCw9kr5Z-",
+        "year": "2019",
+        "imdb": "8.5",
+        "genra": "Thriller/Drama",
+        "length": "2h 12m",
+        "print": "2K HD",
+        "language": "Korean",
+        "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    },
+    {
+        "name": "Charlie",
+        "poster": "8",
+        "year": "2015",
+        "imdb": "",
+        "genra": "Drama/Romance",
+        "length": "2h 15h",
+        "print": "HD",
+        "language": "Malayalam",
+        "plot": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
+        "casts": [
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXZPzcauVmNndTdqffxiYB3fq172LLafLL5-MfyG8XefO8FJVl30xMLX9GsLXXnVePBQ&usqp=CAU",
+                "name": "Morgan Freeman"
+            },
+            {
+                "img": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "name": "Tim Robbins"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9pOeJrLAzphVCAa_mTL6YZuT6ykySDs43wzA_dJXcfKJgCOJsgxJvQ&s",
+                "name": "Clancy Brown"
+            },
+            {
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8uUskB84TYcmcRU2MoMJHmdbcg6qbHIUdnTygCnSiVsKpb1IE2vt8g&s",
+                "name": "Bob Gunton"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+                "name": "William Sadler"
+            },
+            {
+                "img": "https://flxt.tmsimg.com/assets/73436_v9_bb.jpg",
+                "name": "Gil Bellows"
+            },
+            {
+                "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Walter_Pierce.jpg/revision/latest?cb=20150222225601&path-prefix=en",
+                "name": "Mark Rolston"
+            }
+        ]
+    }
+]
