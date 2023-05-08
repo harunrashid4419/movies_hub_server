@@ -30,6 +30,9 @@ async function run() {
     const requestedMoviesCollections = client
       .db("moviesHub")
       .collection("requestMovie");
+    const usersCollections = client
+      .db("moviesHub")
+      .collection("users");
 
     // all popular movies get and limit
     app.get("/movies", async (req, res) => {
@@ -62,12 +65,58 @@ async function run() {
       res.send(result);
     });
 
+    // get user review
+    app.get('/reviews/:id', async(req, res) =>{
+      const reviewId = req.params.id;
+      const id = {id: reviewId};
+      const result = await userReviewCollections.find(id).toArray();
+      res.send(result);
+    });
+
+    // my requested movies query by email
+    app.get('/myRequest', async(req, res) =>{
+      const email = req.query.email;
+      const query = {email: email};
+      const result = await requestedMoviesCollections.find(query).toArray();
+      res.send(result);
+    })
+
     // add requested movies to database
     app.post("/requestMovie", async (req, res) => {
       const request = req.body;
       const result = await requestedMoviesCollections.insertOne(request);
       res.send(result);
     });
+
+    // user add to database
+    app.post('/users', async(req, res) =>{
+      const user = req.body;
+      const result = await usersCollections.insertOne(user);
+      res.send(result);
+    });
+
+    // get all user
+    app.get('/allUser', async(req, res) =>{
+      const query = {};
+      const result = await usersCollections.find(query).toArray();
+      res.send(result);
+    });
+
+    // user requested movies get
+    app.get('/movieRequested', async(req, res) =>{
+      const movies = {};
+      const result = await requestedMoviesCollections.find(movies).toArray();
+      res.send(result);
+    });
+
+    // admin hook
+    app.get('/user/admin/:email', async(req, res) =>{
+      const email = req.params.email;
+      const query = {email: email};
+      const user = await usersCollections.findOne(query);
+      console.log(email)
+      res.send({isAdmin: user?.role === 'admin'});
+    })
 
 
   } finally {
