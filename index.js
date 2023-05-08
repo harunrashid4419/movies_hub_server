@@ -34,6 +34,22 @@ async function run() {
       .db("moviesHub")
       .collection("topRated");
 
+    // top rated movies
+    app.get('/topRated', async(req, res) =>{
+      const movie = {};
+      const result = await topRatedMoviesCollections.find(movie).toArray();
+      res.send(result);
+    });
+
+    // single top rated movie
+    app.get("/topRated/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await topRatedMoviesCollections.findOne(query);
+      res.send(result);
+    });
+
+
     // popular all movies
     app.get("/movies", async (req, res) => {
       const movie = {};
@@ -48,8 +64,7 @@ async function run() {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) };
       const result = await popularMoviesCollections.findOne(query);
-      const result2 = await topRatedMoviesCollections.findOne(query);
-      res.send(result, result2);
+      res.send(result);
     });
 
     // all popular movie
