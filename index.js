@@ -97,6 +97,14 @@ async function run() {
       res.send(result);
     });
 
+    // delete my requested movie
+    app.delete('/myRequest/:id', async(req, res) =>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const result = await requestedMoviesCollections.deleteOne(query);
+      res.send(result);
+    })
+
     // add requested movies to database
     app.post("/requestMovie", async (req, res) => {
       const request = req.body;
@@ -124,6 +132,14 @@ async function run() {
       const result = await requestedMoviesCollections.find(movies).toArray();
       res.send(result);
     });
+
+    // delete movies requested
+    app.delete('/movieRequested/:id', async(req, res) =>{
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const result = await requestedMoviesCollections.deleteOne(query);
+      res.send(result);
+    })
 
     // admin hook
     app.get("/user/admin/:email", async (req, res) => {
